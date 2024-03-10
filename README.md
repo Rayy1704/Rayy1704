@@ -1,7 +1,7 @@
 <snap align='center'>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=41&pause=1000&color=33FF00&center=true&vCenter=true&random=false&width=800&height=60&lines=Welcome+To+My+GitHub+Profile!;The+Name's+Rayy...;Rayyan+Hassan+Salman.;I'm+A+Computer+Science+Student+At+GIKI.)](https://git.io/typing-svg)</snap>
   
 
-<h4  align="center">"Debugging is like trying to find a needle in a haystack, except the needle is also made of hay and the haystack is on fire"<br><a href="https://ryaan.space/" target="_blank">ryaan.spac</a></h3>
+<h4  align="center">"Debugging is like trying to find a needle in a haystack, except the needle is also made of hay and the haystack is on fire"<br><a href="https://ryaan.space/" target="_blank">ryaan.space</a></h3>
 
   
   
