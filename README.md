@@ -1,4 +1,4 @@
-(https://github-readme-stats.vercel.app/api?username=Rayy1704&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayy1704&show_icons=true&theme=radical)
 # Welcome to My GitHub Profile!
 
 Hey, I'm Rayyan Salman, a dedicated computer science student at GIKI.
