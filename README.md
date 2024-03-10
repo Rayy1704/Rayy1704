@@ -1,45 +1,61 @@
-<a href="https://github.com/Rayy1704/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rayy1704&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/Rayy1704/">
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayy1704&layout=compact&langs_count=8&card_width=320" />
-</a>
-# Welcome to My GitHub Profile!
+<snap align='center'>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=41&pause=1000&color=33FF00&center=true&vCenter=true&random=false&width=800&height=60&lines=Welcome+To+My+GitHub+Profile!;The+Name's+Rayy...;Rayyan+Hassan+Salman.;I'm+A+Computer+Science+Student+At+GIKI.)](https://git.io/typing-svg)</snap>
+  
 
-Hey, I'm Rayyan Salman, a dedicated computer science student at GIKI.
-I'm on an exciting journey to master the fundamentals of
-C++ programming,with a focus on arrays, functions, and more.
+<h4  align="center">"Debugging is like trying to find a needle in a haystack, except the needle is also made of hay and the haystack is on fire"<br><a href="https://ryaan.space/" target="_blank">ryaan.space</a></h3>
 
-## About Me
+  
+  
 
-- 📚 Currently studying at GIKI.
-- 💡 Passionate about computer science and programming.
-- 🚀 Constantly learning and expanding my knowledge.
+<br>
 
-## Skills
+  
 
-Here are some of the skills I'm actively working on:
+<div  align="center"  style="margin-bottom:200px">
 
-- 💻 C++ Programming
-- 🧠 Problem Solving
+<img  width=45%  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rayy1704&theme=radical&show_icons=true"  />
 
-## Projects
+<img  width=40%  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayy1704&layout=compact&theme=radical"  />
 
-I'm just getting started on my programming adventure,
-and I'm busy creating personal projects to reinforce my skills.
-Stay tuned for updates as I share my coding projects here.
+</div>
 
-## Let's Connect!
+  
+<br>
 
-I'm always excited to connect with fellow developers, students,
-or anyone passionate about technology. You can reach out to me 
-through these channels:
+  
 
-- GitHub:(https://github.com/Rayy1704)
-- LinkedIn: (https://www.linkedin.com/in/rayyan-salman-588919289/)
+## Languages and Tools 🛠
+#### Languages & Frameworks:
 
-Feel free to send me a message or connect with me if you'd 
-like to chat about programming, collaborate on projects,
-or share your experiences.
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://www.w3.org/Style/CSS/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://www.javascript.com/)
+<br>
 
-Thanks for visiting my GitHub profile, and I look forward to connecting with you!
+#### Tools:
+  
+
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=pycharm"/>](https://www.jetbrains.com/pycharm/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ubuntu"/>](https://ubuntu.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=clion"/>](https://www.jetbrains.com/clion/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+
+
+<br>
+
+  
+
+## Contact Me
+
+<div>
+
+<a  href = "mailto: ryaansalman@gmail.com"><img  loading="lazy"  src="https://skillicons.dev/icons?i=gmail"  target="_blank"></a>
+<a  href="https://www.linkedin.com/in/rayy1704/"  target="_blank"><img  loading="lazy"  src="https://skillicons.dev/icons?i=linkedin"  target="_blank"></a>
+<a  href="https://ryaan.space"  target="_blank"><img  loading="lazy"  src="https://ryaan.space/assets/images/a.png"  target="_blank" width="48px"></a>
+
+</div>
