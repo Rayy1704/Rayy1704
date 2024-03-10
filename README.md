@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 # Welcome to My GitHub Profile!
 
 Hey, I'm Rayyan Salman, a dedicated computer science student at GIKI.
