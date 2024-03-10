@@ -1,7 +1,7 @@
-<a href="https://github.com/Rayy1704/github-readme-stats">
+<a href="https://github.com/Rayy1704/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rayy1704&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Rayy1704/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayy1704&layout=compact&langs_count=8&card_width=320" />
 </a>
 # Welcome to My GitHub Profile!
