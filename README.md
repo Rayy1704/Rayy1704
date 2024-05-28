@@ -53,7 +53,7 @@
 
 <div>
 
-<a  href = "mailto: rayyansalman.rs@outlook.com"><img  loading="lazy"  src="https://skillicons.dev/icons?i=gmail"  target="_blank"></a>
+<a  href = "mailto: ryaansalman@gmail.com"><img  loading="lazy"  src="https://skillicons.dev/icons?i=gmail"  target="_blank"></a>
 <a  href="https://www.linkedin.com/in/rayy1704/"  target="_blank"><img  loading="lazy"  src="https://skillicons.dev/icons?i=linkedin"  target="_blank"></a>
 <a  href="https://ryaan.space"  target="_blank"><img  loading="lazy"  src="https://ryaan.space/assets/imgs/logo.png"  target="_blank" width="48px"></a>
 
