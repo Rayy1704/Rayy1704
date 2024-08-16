@@ -44,7 +44,7 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=clion"/>](https://www.jetbrains.com/clion/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-![Postman](https://skillicons.dev/icons?i=postman) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)  ![postgresql](https://skillicons.dev/icons?i=postgresql) ![npm](https://skillicons.dev/icons?i=npm)
+![Postman](https://skillicons.dev/icons?i=postman) ![Git](https://skillicons.dev/icons?i=git)  ![postgresql](https://skillicons.dev/icons?i=postgresql) ![npm](https://skillicons.dev/icons?i=npm)
 
 
 <br>
