@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayy1704&theme=radical" alt="GitHub Streak" />
 </p>
+
 ## 🚀 Featured Projects
 
 - **⚡ CUDA AES-128:** GPU-accelerated encryption achieving massive throughput via Constant Memory & Shared Memory optimization.
