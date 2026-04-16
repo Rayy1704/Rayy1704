@@ -10,7 +10,7 @@
   <a href="https://ryaan.space/" target="_blank">ryaan.space</a>
 </h4>
 <p align="center">
-  <a href="[https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rayy1704&theme=github-dark-dimmed&date_format=%5BY%20%5DM%20j]" alt="GitHub Streak" /></a>
+  <a href="[https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rayy1704&theme=github-dark-dimmed&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
 </p>
 
 ## 🚀 Featured Projects
