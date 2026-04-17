@@ -17,7 +17,7 @@
 
 - **⚡ CUDA AES-128:** GPU-accelerated encryption achieving massive throughput via Constant Memory & Shared Memory optimization.
 - **🛡️ Web Privacy Auditing:** Researching GDPR enforcement and unauthorized tracking at **GIKI Cyber Lab**.
-- **🐧 xv6 Kernel Extensions:** Implementing custom system calls, priority scheduling, and double-indirect file blocks in C.
+- **🐧 xv6 Kernel Extensions:** Implementing custom system calls, priority scheduling, and double-indirect file blocks in **C**.
 - **📸 Parallel Ray Tracer:** Developed a C++ engine with **OpenMP**, achieving a 2.87x multi-threaded speedup.
 - **🤖 AI Waste Classifier:** Real-time detection pipeline using **YOLOv8 Nano** and CUDA-enabled training.
 - **🔐 Quantum Guard:** Secure C++ socket application integrating the **Kyber** post-quantum algorithm.
