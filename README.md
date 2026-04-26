@@ -22,7 +22,7 @@
 - **🤖 AI Waste Classifier:** Real-time detection pipeline using **YOLOv8 Nano** and CUDA-enabled training.
 - **🔐 Quantum Guard:** Secure C++ socket application integrating the **Kyber** post-quantum algorithm.
 - **📊 AQI Forecasting:** Serverless ML pipeline using **Apache Airflow** and **Hopsworks** with 94% accuracy.
-
+- **📸 Visual Transformation AI:** Constrained an LLM pipeline to map visual deltas into structured JSON UI tables
 ## Technical Stack 🛠
 
 #### Programming & Scripting Languages
