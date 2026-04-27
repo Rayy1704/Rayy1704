@@ -13,16 +13,16 @@
   <a href="[https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rayy1704&theme=github-dark-dimmed&date_format=%5BY%20%5DM%20j]https://github-readme-streak-stats.herokuapp.com/?user=Rayy1704&theme=github-dark-dimmed&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- **⚡ CUDA AES-128:** GPU-accelerated encryption achieving massive throughput via Constant Memory optimization.
-- **🛡️ Web Privacy Auditing:** Researching GDPR enforcement and unauthorized tracking at **GIKI Cyber Lab**.
-- **🐧 xv6 Kernel Extensions:** Implementing custom system calls, priority scheduling, and double-indirect file blocks in **C**.
-- **📸 Parallel Ray Tracer:** Developed a C++ engine with **OpenMP**, achieving a 2.87x multi-threaded speedup.
-- **🤖 AI Waste Classifier:** Real-time detection pipeline using **YOLOv8 Nano** and CUDA-enabled training.
-- **🔐 Quantum Guard:** Secure C++ socket application integrating the **Kyber** post-quantum algorithm.
-- **📊 AQI Forecasting:** Serverless ML pipeline using **Apache Airflow** and **Hopsworks** with 94% accuracy.
-- **📸 Visual Transformation AI:** Constrained an LLM pipeline to map visual deltas into structured JSON UI tables
+- **CUDA AES-128:** GPU-accelerated encryption achieving massive throughput via Constant Memory optimization.
+- **Web Privacy Auditing:** Researching GDPR enforcement and unauthorized tracking at **GIKI Cyber Lab**.
+- **xv6 Kernel Extensions:** Implementing custom system calls, priority scheduling, and double-indirect file blocks in **C**.
+- **Parallel Ray Tracer:** Developed a C++ engine with **OpenMP**, achieving a 2.87x multi-threaded speedup.
+- **AI Waste Classifier:** Real-time detection pipeline using **YOLOv8 Nano** and CUDA-enabled training.
+- **Quantum Guard:** Secure C++ socket application integrating the **Kyber** post-quantum algorithm.
+- **AQI Forecasting:** Serverless ML pipeline using **Apache Airflow** and **Hopsworks** with 94% accuracy.
+- **Visual Transformation AI:** Constrained an LLM pipeline to map visual deltas into structured JSON UI tables
 ## Technical Stack 🛠
 
 #### Programming & Scripting Languages
