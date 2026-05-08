@@ -5,7 +5,7 @@
 </p>
 
 <h4 align="center">
-  "Debugging is like trying to find a needle in a haystack, except the needle is also made of hay and the haystack is on fire"
+  "Debugging is like trying to find a needle in a haystack, except the needle is also made of hay and the haystack is on fire."
   <br>
 </h4>
 <p align="center">
