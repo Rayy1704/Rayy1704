@@ -13,7 +13,7 @@
 </p>
 
 ## Featured Projects
-- **GPU Based Simple BlockChain implementtation:** 
+- **CUDA Blockchain:** High-performance architecture leveraging GPU parallelization for accelerated mining and Merkle tree hashing.
 - **CUDA AES-128:** GPU-accelerated encryption achieving massive throughput via Constant Memory optimization.
 - **Web Privacy Auditing:** Researching GDPR enforcement and unauthorized tracking at **GIKI Cyber Lab**.
 - **xv6 Kernel Extensions:** Implementing custom system calls, priority scheduling, and double-indirect file blocks in **C**.
